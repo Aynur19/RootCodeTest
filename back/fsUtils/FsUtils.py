@@ -1,6 +1,5 @@
 import os
 import json
-import unittest
 
 path = 'C:/aynur19/dev/RootCode/back/files'
 
