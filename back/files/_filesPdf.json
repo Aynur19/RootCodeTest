@@ -1,0 +1,152 @@
+[
+    {
+        "ext": ".pdf",
+        "previousName": "Abc_Def_Ghi.pdf",
+        "newName": "Ghi_Abc_Def.pdf",
+        "newAttributes": [
+            "Ghi",
+            "Abc",
+            "Def"
+        ],
+        "previousAttributes": [
+            "Abc",
+            "Def",
+            "Ghi"
+        ]
+    },
+    {
+        "ext": ".pdf",
+        "previousName": "Bcd_Efg_Hij.pdf",
+        "newName": null,
+        "newAttributes": [
+            "Bcd",
+            "Efg",
+            "Hij"
+        ],
+        "previousAttributes": [
+            "Bcd",
+            "Efg",
+            "Hij"
+        ]
+    },
+    {
+        "ext": ".pdf",
+        "previousName": "Cde_Fgh_Ijk.pdf",
+        "newName": null,
+        "newAttributes": [
+            "Cde",
+            "Fgh",
+            "Ijk"
+        ],
+        "previousAttributes": [
+            "Cde",
+            "Fgh",
+            "Ijk"
+        ]
+    },
+    {
+        "ext": ".pdf",
+        "previousName": "Def_Ghi_Jkl.pdf",
+        "newName": null,
+        "newAttributes": [
+            "Def",
+            "Ghi",
+            "Jkl"
+        ],
+        "previousAttributes": [
+            "Def",
+            "Ghi",
+            "Jkl"
+        ]
+    },
+    {
+        "ext": ".pdf",
+        "previousName": "Efg_Hij_Klm.pdf",
+        "newName": "Klm_Efg_Hij.pdf",
+        "newAttributes": [
+            "Klm",
+            "Efg",
+            "Hij"
+        ],
+        "previousAttributes": [
+            "Efg",
+            "Hij",
+            "Klm"
+        ]
+    },
+    {
+        "ext": ".pdf",
+        "previousName": "Fgh_Ijk_Lmn.pdf",
+        "newName": "Lmn_Fgh_Ijk.pdf",
+        "newAttributes": [
+            "Lmn",
+            "Fgh",
+            "Ijk"
+        ],
+        "previousAttributes": [
+            "Fgh",
+            "Ijk",
+            "Lmn"
+        ]
+    },
+    {
+        "ext": ".pdf",
+        "previousName": "Ghi_Jkl_Mno.pdf",
+        "newName": "Mno_Ghi_Jkl.pdf",
+        "newAttributes": [
+            "Mno",
+            "Ghi",
+            "Jkl"
+        ],
+        "previousAttributes": [
+            "Ghi",
+            "Jkl",
+            "Mno"
+        ]
+    },
+    {
+        "ext": ".pdf",
+        "previousName": "Hij_Klm_Nop.pdf",
+        "newName": "Nop_Hij_Klm.pdf",
+        "newAttributes": [
+            "Nop",
+            "Hij",
+            "Klm"
+        ],
+        "previousAttributes": [
+            "Hij",
+            "Klm",
+            "Nop"
+        ]
+    },
+    {
+        "ext": ".pdf",
+        "previousName": "Ijk_Lmn_Opq.pdf",
+        "newName": "Opq_Ijk_Lmn.pdf",
+        "newAttributes": [
+            "Opq",
+            "Ijk",
+            "Lmn"
+        ],
+        "previousAttributes": [
+            "Ijk",
+            "Lmn",
+            "Opq"
+        ]
+    },
+    {
+        "ext": ".pdf",
+        "previousName": "Jkl_Mno_Pqr.pdf",
+        "newName": "Pqr_Jkl_Mno.pdf",
+        "newAttributes": [
+            "Pqr",
+            "Jkl",
+            "Mno"
+        ],
+        "previousAttributes": [
+            "Jkl",
+            "Mno",
+            "Pqr"
+        ]
+    }
+]
